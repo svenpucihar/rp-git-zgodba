@@ -4,7 +4,7 @@
    Odprite direktorij z repozitorijem v 
 2. Poženite skripto, da boste lahko preigrali zgodbo:
    v ukazno vrstico napišete `./hook-install.sh` in stisnete vnašalko.
-3. Za začetek zapišite odgovor na življenje, vesolje in sploh vse nekam v to datoteko.
+3. Za začetek zapišite odgovor na življenje, vesolje in sploh vse nekam v to datoteko.42
 4. Z `git status` preverite, da ste res spremenili vsebino datoteke.
 5. Git-u povejte, da ste spremenili datoteko: `git add navodila.md`.
 6. Poglejte, kaj ko se je spremenil repozitorij: `git status`.
